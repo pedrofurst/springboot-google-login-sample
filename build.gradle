@@ -33,7 +33,6 @@ dependencies {
 	compile('org.springframework.boot:spring-boot-starter-security')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	compile('org.webjars:bootstrap:3.2.0')
-	compile('org.webjars:bootstrap:3.2.0')
 	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 
